@@ -2,7 +2,7 @@
 
 # paperlighter
 
-A simple Latex style-file for writing Paper.
+A simple Latex style-file for writing papers.
 
 If you like it, just star it!
 
