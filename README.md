@@ -1,4 +1,4 @@
-[![paperlighter](https://img.shields.io/badge/version-0.1.1-green)](https://github.com/perryuu/paperlighter)
+[![paperlighter](https://img.shields.io/badge/version-v0.1.1-green)](https://github.com/perryuu/paperlighter)
 
 # paperlighter
 
