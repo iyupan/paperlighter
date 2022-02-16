@@ -1,4 +1,4 @@
-[![paperlighter](https://img.shields.io/badge/version-v0.1.1-green)](https://github.com/perryuu/paperlighter)
+[![paperlighter](https://img.shields.io/badge/version-v0.1.2-green)](https://github.com/perryuu/paperlighter)
 
 # paperlighter
 
@@ -9,10 +9,10 @@ If you like it, just star it!
 
 |                                        |                                        |
 |:--------------------------------------:|:--------------------------------------:|
-| <img src="./extra/figures/paper1.png"> | <img src="./extra/figures/paper2.png"> |
-| <img src="./extra/figures/paper3.png"> | <img src="./extra/figures/paper4.png"> |
-| <img src="./extra/figures/paper5.png"> | <img src="./extra/figures/paper6.png"> |
-| <img src="./extra/figures/paper7.png"> |                                        |
+| <img src="./extra/figures/paper1.jpg"> | <img src="./extra/figures/paper2.jpg"> |
+| <img src="./extra/figures/paper3.jpg"> | <img src="./extra/figures/paper4.jpg"> |
+| <img src="./extra/figures/paper5.jpg"> | <img src="./extra/figures/paper6.jpg"> |
+| <img src="./extra/figures/paper7.jpg"> |                                        |
 
 
 
