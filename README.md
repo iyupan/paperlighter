@@ -6,4 +6,4 @@ A simple Latex style-file for writing papers.
 
 If you like it, just star it!
 
-![](figure/paperlighter_first_page.png)
+![](extra/figures/paperlighter_first_page.png)
